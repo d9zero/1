@@ -12,12 +12,12 @@ While there are many ways to describe a mindset, it can be fundamentally describ
 
 A Fixed Mindset and be summarized to encompass a root of observable traits and/or held beliefs. In this psychological orientation, fixed mindset values are aligned with the concepts that a persons’ skills or abilities are set in stone at a predetermined period of development. Which in turn can derive common sets of behavioral traits. 
 
-When observed under this disposition, a person with a fixed mindset may: 
-Only participate in activities that they perceive or personally deem that they are ‘good at’.
-Resign, remove, or cease productivity or efforts when an experience or challenge is perceived to be too difficult.
-Refrain, move around, or avoid perceived challenges.
-Vocalize or demonstrate disdain for difficulties or perceived challenges.
-Demonstrate minimal interests or motivation in activities with minimal background information.
+<ul> When observed under this disposition, a person with a fixed mindset may: 
+<li>Only participate in activities that they perceive or personally deem that they are ‘good at’.</li>
+<li>Resign, remove, or cease productivity or efforts when an experience or challenge is perceived to be too difficult.</li>
+<li>Refrain, move around, or avoid perceived challenges.</li>
+<li>Vocalize or demonstrate disdain for difficulties or perceived challenges.</li>
+<li>Demonstrate minimal interests or motivation in activities with minimal background information.</li></ul>
 
 The relational differences from a fixed mindset and a growth mindset are somewhat aligned in a dichotomy-like fashion in disposition, held beliefs, or behaviors. In a stark contrast from a fixed mindset, a growth mindset holds contradictory values.
 
