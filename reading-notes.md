@@ -10,4 +10,10 @@ Learinging Markdown can serve as a fundamental tool when introduced to coding. U
 # Building upon previous experience with Code Fellow' projects
 
 Given the platform *utility* with the markdown language, former projects can be incorporated as well:
-https://Code101-example.d9zero.repl.co - automatic!
+! [example] (https://repl.it/@d9zero/Code101-example#3-4.jpg)
+
+Format: ![Example] (url)
+
+https://Code101-example.d9zero.repl.co
+
+
