@@ -1,4 +1,7 @@
 # readme
+# *What is a Mindset?*
+While there are many ways to decribe a mindset, it can be fundamentally described
+
 <ul>
     <li>Wrench</li>
     <li>Screwdriver
