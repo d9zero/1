@@ -1,8 +1,9 @@
 # readme
 
+# *What is a Mindset?*
+
 ![Mindset](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/learn-teach/sos-images/courses/top-image/sos-course-brain-top_2x/2267955-1-eng-US/sos-course-brain-top_2x.jpg)
 
-# *What is a Mindset?*
 While there are many ways to describe a mindset, it can be fundamentally described as an attitude, disposition, mood, inclination, or intention. Mindsets can affect how one perceives, or reviews an encountered experience; thereby adding precedence in an imperative manner, in which why mindsets are important to consider. When encountering a potential challenge or experience, the etymology of the word ‘mindset’ can holistically be viewed from two basic subsets of orientation; Which would include the Fixed Mindset and the Growth Mindset. While rooted to the core terminology, there are noticeable differences between the two distinctive dispositions. 
 
 # *What is a Fixed Mindset?*
@@ -33,6 +34,8 @@ Vocalize or demonstrate a desire for learning.
 Open to constructive criticism.
 
 # *Reminders*
+
+![Bookmark in study](https://freshome.com/wp-content/uploads/2014/08/30-Classic-Home-Library-Design-Ideas-13.jpg)
 
 While there are noticeable differences between the two mindsets, fortunately the latter disposition fosters a ‘sense’ of open opportunities and desirable outcomes; which is fundamental to innovation and entrepreneurism. Although demonstrators of both mindsets aren’t always polarized in a singular manner, the reinforcement of a mindset can sometimes become fleeting. In support of a growth mindset, I personally like to subscribe to a few reminders that sustain a positive and open momentum.
 
