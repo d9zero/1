@@ -11,7 +11,7 @@ Learinging Markdown can serve as a fundamental tool when introduced to coding. U
 
 Given the platform *utility* with the markdown language, former projects can be incorporated as well:
 
-! [example] (https://www.airplanefactory.com/dev/wp-content/uploads/2017/06/Coastline2aircraft2.jpg)
+![example](https://www.airplanefactory.com/dev/wp-content/uploads/2017/06/Coastline2aircraft2.jpg)
 
 Format: ![Example] (url)
 
