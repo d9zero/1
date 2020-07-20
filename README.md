@@ -13,6 +13,7 @@ While there are many ways to describe a mindset, it can be fundamentally describ
 A Fixed Mindset and be summarized to encompass a root of observable traits and/or held beliefs. In this psychological orientation, fixed mindset values are aligned with the concepts that a persons’ skills or abilities are set in stone at a predetermined period of development. Which in turn can derive common sets of behavioral traits. 
 
 <ul> When observed under this disposition, a person with a fixed mindset may: 
+  
   <li>Only participate in activities that they perceive or personally deem that they are ‘good at’.</li>
   <li>Resign, remove, or cease productivity or efforts when an experience or challenge is perceived to be too difficult.</li>
   <li>Refrain, move around, or avoid perceived challenges.</li>
@@ -39,11 +40,11 @@ The relational differences from a fixed mindset and a growth mindset are somewha
 
 While there are noticeable differences between the two mindsets, fortunately the latter disposition fosters a ‘sense’ of open opportunities and desirable outcomes; which is fundamental to innovation and entrepreneurism. Although demonstrators of both mindsets aren’t always polarized in a singular manner, the reinforcement of a mindset can sometimes become fleeting. In support of a growth mindset, I personally like to subscribe to a few reminders that sustain a positive and open momentum.
 
-Inspirational Quotes and Imagery of Mimetic Value.
-[patton “hell”]
+<h2>Inspirational Quotes and Imagery of Mimetic Value.</h2>
+![Winston Churchill Quote](http://cdn.quotesgram.com/img/29/39/722932294-churchill-if-youre-going-through-hell-quote.jpg)
 
-Aligned Case Study, or Proof of Concept. 
+<h2>Aligned Case Study, or Proof of Concept.</h2> 
 “they did it, you can do it too”
 
-The future of your quality of life is dependent upon your actions
+<h2>The future of your quality of life is dependent upon your actions.</h2>
 
