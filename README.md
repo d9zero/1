@@ -13,11 +13,11 @@ While there are many ways to describe a mindset, it can be fundamentally describ
 A Fixed Mindset and be summarized to encompass a root of observable traits and/or held beliefs. In this psychological orientation, fixed mindset values are aligned with the concepts that a persons’ skills or abilities are set in stone at a predetermined period of development. Which in turn can derive common sets of behavioral traits. 
 
 <ul> When observed under this disposition, a person with a fixed mindset may: 
-<li>Only participate in activities that they perceive or personally deem that they are ‘good at’.</li>
-<li>Resign, remove, or cease productivity or efforts when an experience or challenge is perceived to be too difficult.</li>
-<li>Refrain, move around, or avoid perceived challenges.</li>
-<li>Vocalize or demonstrate disdain for difficulties or perceived challenges.</li>
-<li>Demonstrate minimal interests or motivation in activities with minimal background information.</li></ul>
+  <li>Only participate in activities that they perceive or personally deem that they are ‘good at’.</li>
+  <li>Resign, remove, or cease productivity or efforts when an experience or challenge is perceived to be too difficult.</li>
+  <li>Refrain, move around, or avoid perceived challenges.</li>
+  <li>Vocalize or demonstrate disdain for difficulties or perceived challenges.</li>
+  <li>Demonstrate minimal interests or motivation in activities with minimal background information.</li></ul>
 
 The relational differences from a fixed mindset and a growth mindset are somewhat aligned in a dichotomy-like fashion in disposition, held beliefs, or behaviors. In a stark contrast from a fixed mindset, a growth mindset holds contradictory values.
 
@@ -25,13 +25,13 @@ The relational differences from a fixed mindset and a growth mindset are somewha
 
 ![Growth Mindset](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.pxhere.com%2Fphoto%2Fbeach-sunrise-ocean-clouds-morning-sky-cloud-horizon-sunset-sea-evening-dawn-sunlight-sun-dusk-calm-meteorological-phenomenon-1427037.jpg&f=1&nofb=1)
 
-A Growth Mindset in comparison with the former, is fostered on the belief that a persons’ capacities and talents can be improved over time with commitment to do so. In-kind with the behavioral affects of the contrasting disposition, a growth mindset also can derive observable traits linked with its underlying psychology:
+<ul>A Growth Mindset in comparison with the former, is fostered on the belief that a persons’ capacities and talents can be improved over time with commitment to do so. In-kind with the behavioral affects of the contrasting disposition, a growth mindset also can derive observable traits linked with its underlying psychology:
 
-A person can become ‘good’ at a selected activity or experience if they make a choice to do so.
-Practice makes perfect.
-May be willing to undergo or understand new challenges.
-Vocalize or demonstrate a desire for learning.
-Open to constructive criticism.
+  <li>A person can become ‘good’ at a selected activity or experience if they make a choice to do so.
+  <li>Practice makes perfect.
+  <li>May be willing to undergo or understand new challenges.
+  <li>Vocalize or demonstrate a desire for learning.
+  <li>Open to constructive criticism.</li></ul>
 
 # *Reminders*
 
