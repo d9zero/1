@@ -41,6 +41,7 @@ The relational differences from a fixed mindset and a growth mindset are somewha
 While there are noticeable differences between the two mindsets, fortunately the latter disposition fosters a ‘sense’ of open opportunities and desirable outcomes; which is fundamental to innovation and entrepreneurism. Although demonstrators of both mindsets aren’t always polarized in a singular manner, the reinforcement of a mindset can sometimes become fleeting. In support of a growth mindset, I personally like to subscribe to a few reminders that sustain a positive and open momentum.
 
 <h2>Inspirational Quotes and Imagery of Mimetic Value.</h2>
+
 ![Winston Churchill Quote](https://images7.alphacoders.com/401/401598.jpg)
 
 <h2>Aligned Case Study, or Proof of Concept.</h2> 
