@@ -1,4 +1,3 @@
-# readme
 
 # *What is a Mindset?*
 
@@ -45,7 +44,10 @@ While there are noticeable differences between the two mindsets, fortunately the
 ![Winston Churchill Quote](https://images7.alphacoders.com/401/401598.jpg)
 
 <h2>Aligned Case Study, or Proof of Concept.</h2> 
-“they did it, you can do it too”
+
+  <q>“they did it, you can do it too”</q>
+
+![proof of concept](https://static.boredpanda.com/blog/wp-content/uploads/2017/10/before-after-weight-loss-success-stories-fb12.png)
 
 <h2>The future of your quality of life is dependent upon your actions.</h2>
 
