@@ -17,4 +17,6 @@ Format: ![Example] (url)
 
 https://Code101-example.d9zero.repl.co
 
+With a bit of practice, students can learn to problem-solve and build a foundation to excel in a coding environment.
 
+# *Thank you for viewing*
