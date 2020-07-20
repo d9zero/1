@@ -1,9 +1,13 @@
 # readme
 
+![Mindset](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/learn-teach/sos-images/courses/top-image/sos-course-brain-top_2x/2267955-1-eng-US/sos-course-brain-top_2x.jpg)
+
 # *What is a Mindset?*
 While there are many ways to describe a mindset, it can be fundamentally described as an attitude, disposition, mood, inclination, or intention. Mindsets can affect how one perceives, or reviews an encountered experience; thereby adding precedence in an imperative manner, in which why mindsets are important to consider. When encountering a potential challenge or experience, the etymology of the word ‘mindset’ can holistically be viewed from two basic subsets of orientation; Which would include the Fixed Mindset and the Growth Mindset. While rooted to the core terminology, there are noticeable differences between the two distinctive dispositions. 
 
 # *What is a Fixed Mindset?*
+
+![Fixed Mindset](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.huffingtonpost.com%2F2015-04-21-1429646111-5759003-AF881692DAA5424982D1C46DE6954678.jpg&f=1&nofb=1)
 
 A Fixed Mindset and be summarized to encompass a root of observable traits and/or held beliefs. In this psychological orientation, fixed mindset values are aligned with the concepts that a persons’ skills or abilities are set in stone at a predetermined period of development. Which in turn can derive common sets of behavioral traits. 
 
@@ -17,6 +21,8 @@ Demonstrate minimal interests or motivation in activities with minimal backgroun
 The relational differences from a fixed mindset and a growth mindset are somewhat aligned in a dichotomy-like fashion in disposition, held beliefs, or behaviors. In a stark contrast from a fixed mindset, a growth mindset holds contradictory values.
 
 # *What is a Growth Mindset?*
+
+![Growth Mindset](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.pxhere.com%2Fphoto%2Fbeach-sunrise-ocean-clouds-morning-sky-cloud-horizon-sunset-sea-evening-dawn-sunlight-sun-dusk-calm-meteorological-phenomenon-1427037.jpg&f=1&nofb=1)
 
 A Growth Mindset in comparison with the former, is fostered on the belief that a persons’ capacities and talents can be improved over time with commitment to do so. In-kind with the behavioral affects of the contrasting disposition, a growth mindset also can derive observable traits linked with its underlying psychology:
 
