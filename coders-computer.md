@@ -6,10 +6,10 @@
 
 While certain aspects of software development may be challenging for new programmers, the use of the command line with a text editor is a vital resource. A  text editor is a piece of software that you download and install on your client machine; which allows you to write and manage text.
 
-<ul>  # Desirable Features
+<ul>Desirable Features
 <li> code completion</li>
-<li> 2.) syntax highlighting </li> 
-<li> 3.) a nice variety of themes (to reduce eye strain and fatigue) </li> 
-<li> 4.) the ability to choose from a healthy selection of extensions available when you need them</li>
+<li> syntax highlighting </li> 
+<li>a nice variety of themes (to reduce eye strain and fatigue) </li> 
+<li>the ability to choose from a healthy selection of extensions available when you need them</li>
 </ul>
 
