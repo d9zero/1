@@ -66,6 +66,7 @@ While there are numberous reminders for how one might reinforce a growth mindset
 
 <h6>References
 
+
 Drinko, C. (2020, April 2). What is a fixed mindset and can you change it? Lifehack. https://www.lifehack.org/871367/fixed-mindset
 
 Psychology Today. (2020). Growth mindset | Psychology Today. Psychology Today: Health, Help, Happiness. https://www.psychologytoday.com/us/basics/growth-mindset</h6>
