@@ -1,4 +1,15 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>FOTC First Website</title>
+</head>
+<body>
+<nav>
+<ul>
+<li><a href=”https://github.com/d9zero/Repository-1/blob/master/coders-computer.md”>Coders Computer</a></li>
+<li><a href=”https://github.com/d9zero/Repository-1/blob/master/reading-notes.md”>Reading Notes</a></li>
+</ul>
+</nav>
 # *What is a Mindset?*
 
 ![Mindset](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/learn-teach/sos-images/courses/top-image/sos-course-brain-top_2x/2267955-1-eng-US/sos-course-brain-top_2x.jpg)
