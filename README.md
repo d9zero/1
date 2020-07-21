@@ -45,9 +45,11 @@ While there are noticeable differences between the two mindsets, fortunately the
 
 <h2>Aligned Case Study, or Proof of Concept.</h2> 
 
-  <q>“they did it, you can do it too”</q>
+  “they did it, you can do it too”
 
 ![proof of concept](https://static.boredpanda.com/blog/wp-content/uploads/2017/10/before-after-weight-loss-success-stories-fb12.png)
 
 <h2>The future of your quality of life is dependent upon your actions.</h2>
+
+![Opportunities](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.cammconstruction.com%2Fwp-content%2Fuploads%2F2018%2F12%2Fbuilding-construction-sunset.jpg&f=1&nofb=1)
 
