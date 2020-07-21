@@ -13,3 +13,4 @@ While certain aspects of software development may be challenging for new program
 <li>the ability to choose from a healthy selection of extensions available when you need them</li>
 </ul>
 
+Systems such as Windows the extension is important and the system uses it to determine what type of file it is. Under Linux the system actually ignores the extension and looks inside the file to determine what type of file it is. So for instance I could have a file myself.png which is a picture of me. I could rename the file to myself.txt or just myself and Linux would still happily treat the file as an image file. As such it can sometimes be hard to know for certain what type of file a particular file is. Luckily there is a command called file which we can use to find this out.
