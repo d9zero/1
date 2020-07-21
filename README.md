@@ -1,12 +1,15 @@
 
-</head>
-<body>
-<nav>
-<ul>
-<li><a href=”https://github.com/d9zero/Repository-1/blob/master/coders-computer.md”>Coders Computer</a></li>
-<li><a href=”https://github.com/d9zero/Repository-1/blob/master/reading-notes.md”>Reading Notes</a></li>
-</ul>
-</nav>
+## Table of Contents
+
+-[Markdown Reading](markdown.md)
+-[README](README.md)
+-[Revision and the Cloud](revisions-and-the-cloud.md)
+-[Class 4 Reading]
+-[Class 5 Reading]
+-[Class 6 Reading]
+-[Class 7 Reading]
+-[Class 8 Reading]
+
   
 # *What is a Mindset?*
 

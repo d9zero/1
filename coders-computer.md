@@ -1,3 +1,15 @@
+## Table of Contents
+
+-[Markdown Reading](markdown.md)
+-[README](README.md)
+-[Revision and the Cloud](revisions-and-the-cloud.md)
+-[Class 4 Reading]
+-[Class 5 Reading]
+-[Class 6 Reading]
+-[Class 7 Reading]
+-[Class 8 Reading]
+
+
 ## Heading level 2
 The computer, its configuration, and line terminal, serves as the coders primary means to enter commands. 
 <ul>  # Desirable Features
