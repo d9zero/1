@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>FOTC First Website</title>
+<title>Read Me</title>
 </head>
 <body>
 <nav>
