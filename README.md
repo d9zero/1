@@ -53,3 +53,10 @@ While there are noticeable differences between the two mindsets, fortunately the
 
 ![Opportunities](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.cammconstruction.com%2Fwp-content%2Fuploads%2F2018%2F12%2Fbuilding-construction-sunset.jpg&f=1&nofb=1)
 
+While there are numberous reminders for how one might reinforce a growth mindset, ultimately it is what we do, and what we focus on that enables positivity and progress.
+
+<h6>References
+
+Drinko, C. (2020, April 2). What is a fixed mindset and can you change it? Lifehack. https://www.lifehack.org/871367/fixed-mindset
+
+Psychology Today. (2020). Growth mindset | Psychology Today. Psychology Today: Health, Help, Happiness. https://www.psychologytoday.com/us/basics/growth-mindset</h6>
