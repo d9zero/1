@@ -7,7 +7,7 @@ Reading Notes for CodeFellows
 - [Markdown Reading](markdown.md)
 - [README](README.md)
 - [Revision and the Cloud](revisions-and-the-cloud.md)
-- [Class 4 Reading]
+- [Structure web pages with HTML](structurehtml.md)
 - [Class 5 Reading]
 - [Class 6 Reading]
 - [Class 7 Reading]
