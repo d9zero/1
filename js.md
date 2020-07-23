@@ -32,7 +32,9 @@ Javascript is written in plain text, just like a HTML and CSS. When Javascript i
     <li>Variables: variables temprarily stores data that is required perform scripts. Variables are also used to remember the values for _width_ and _height_. The information used to compare variables are temporary because once the client leaves the page, the browser will omit any information it holds.</li>
 </ul>
 
-<ul> Data Types
+ ![Data Types in Javascript](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.javatpoint.com%2Fimages%2Fjava-data-types.png&f=1&nofb=1)
+ 
+<ul>
     <li> Number Data Type </li>
     <li> String Data Type </li>
     <li> Boolean Data Type </li>
