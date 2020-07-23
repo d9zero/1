@@ -7,7 +7,9 @@
 - [CSS](css.md)
 - [Javascript](js.md)
 - [Computer Architecture and Logic](comparch.md)
-- [Class 8 Reading]
+- [Programming in Javascript](programmingjs.md)
+- [Operators and Loops](oploop.md)
+- [TBD]
 
 
 

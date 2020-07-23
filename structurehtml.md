@@ -7,7 +7,10 @@
 - [CSS](css.md)
 - [Javascript](js.md)
 - [Computer Architecture and Logic](comparch.md)
-- [Class 8 Reading]
+- [Programming in Javascript](programmingjs.md)
+- [Operators and Loops](oploop.md)
+- [TBD]
+
 
 ##  Structure web pages with HTML
 *HTML5 is introduces a new set of elements that help define page structure.
