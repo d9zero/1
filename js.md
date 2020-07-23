@@ -33,6 +33,8 @@ Javascript is written in plain text, just like a HTML and CSS. When Javascript i
 </ul>
 
 <ul> Data Types
-    <li> - Number Data Type </li>
-    <li> - String Data Type </li>
-    <li> - Boolean Data Type </li>
+    <li> Number Data Type </li>
+    <li> String Data Type </li>
+    <li> Boolean Data Type </li>
+</ul>
+
