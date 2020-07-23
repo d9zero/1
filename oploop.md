@@ -68,15 +68,33 @@ The block following do is executed first and then the condition is evaluated. If
     } while (number <= 50);   // -- condition
     alert("Sum = " + sum);    // => Sum = 1275'''
 
-The do-while loop is executed at least once whereas the while loop may not execute at all. The do-while is typically used in a situation where the body of a loop contains a statement that generates a value that you want to use in your conditional expression, like this:
+The do-while loop is executed at least once whereas the while loop may not execute at all. The do-while is typically used in a situation where the body of a loop contains a statement that generates a value that you want to use in your conditional expression, like this
 
-'''do {
-        // read a character from keyboard in the body 
-    } while (if ch === '0');     // => terminate loop if '0' is entered'''
+    '''do {
+       // read a character from keyboard in the body 
+  } while (if ch === '0');     // => terminate loop if '0' is entered.'''
+
 
 ## For Loop
 
 The most frequently used loop in JavaScript is the for-loop. It consists of three parts, separated by semicolons. The first is the ***initializer*** (var i = 1) which initializes the loop and is executed only once at the start. The second is a test condition (i <= 50). When a conditional expression evaluates to true, the body of the loop is executed. When false, the loop terminates. The third part is an updater (i++) which is invoked after each iteration. The updater typically increments or decrements the loop counter.
 
+    '''var sum = 0;
+    for (var i = 1; i <= 50; i++) {
+       sum = sum + i;
+    }
+    alert("Sum = " + sum);    // => Sum = 1275'''
 
+
+## For-in Loop
+
+A for-in loop iterates through the properties of an object and executes the loop's body once for each enumerable property of the object
+
+## Break Statement
+
+When JavaScript encounters a break statement in a loop it immediately exits the loop without executing any other statements in the loop. Control is immediately transferred to the statement following the loop body
+
+## Continue Statement
+
+When JavaScript encounters a continue statement in a loop it stops the execution of the current iteration and goes back to the beginning of the loop to begin the next iteration. The example below displays only even numbers.
 
