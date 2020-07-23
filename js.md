@@ -30,3 +30,9 @@ Javascript is written in plain text, just like a HTML and CSS. When Javascript i
     <li>Comments: are descriptions of the present code and what it does, They help make your code easier to read and understand. This can help you and others who read your code.</li>
     <li>Multi-line Comments: Multi-line comments are often used for descriptions of how the script works, or to prevent a section of the script from running when testing it.</li>
     <li>Variables: variables temprarily stores data that is required perform scripts. Variables are also used to remember the values for _width_ and _height_. The information used to compare variables are temporary because once the client leaves the page, the browser will omit any information it holds.</li>
+</ul>
+
+<ul> Data Types
+    <li> - Number Data Type </li>
+    <li> - String Data Type </li>
+    <li> - Boolean Data Type </li>
